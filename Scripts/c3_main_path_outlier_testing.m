@@ -47,6 +47,7 @@ for section = 1:size(section_bin,1)
                 k=k+1;
             end
         end
+        
         outlier_mat(q,section) = k;
         
         subplot(1,size(section_bin,1),section)
