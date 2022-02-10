@@ -1,0 +1,9 @@
+all
+reward
+noreward
+left
+right
+reward_fast
+reward_slow
+noreward_fast
+noreward_slow

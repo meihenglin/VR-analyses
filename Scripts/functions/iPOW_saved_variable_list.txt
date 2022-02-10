@@ -1,0 +1,9 @@
+iPOW_BASE_subj_fb_all
+iPOW_BASE_subj_fb_left
+iPOW_BASE_subj_fb_right
+iPOW_BASE_subj_fb_reward
+iPOW_BASE_subj_fb_noreward
+iPOW_BASE_subj_fb_reward_fast
+iPOW_BASE_subj_fb_noreward_fast
+iPOW_BASE_subj_fb_reward_slow
+iPOW_BASE_subj_fb_noreward_slow

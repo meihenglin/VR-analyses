@@ -1,0 +1,6 @@
+master_list_left_right 
+master_list_fast_slow 
+master_list_reward_noreward 
+master_list_direction_speed 
+master_list_feedback_speed 
+master_msperbin 

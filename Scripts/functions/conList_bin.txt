@@ -1,0 +1,15 @@
+all
+fast
+slow
+left
+right
+left_fast
+left_slow
+right_fast
+right_slow
+reward
+noreward
+reward_fast
+reward_slow
+noreward_fast
+noreward_slow
